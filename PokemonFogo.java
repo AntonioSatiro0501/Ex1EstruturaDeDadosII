@@ -1,3 +1,4 @@
+// Antônio Costa Satiro de Souza 10723636
 public class PokemonFogo extends Pokemon{
 
     public PokemonFogo(String nome, int nivel, int hp){

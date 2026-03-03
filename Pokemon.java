@@ -1,3 +1,4 @@
+// Antônio Costa Satiro de Souza 10723636
 public class Pokemon {
     
     public String nome ;
